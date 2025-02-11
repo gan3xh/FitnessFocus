@@ -1,6 +1,6 @@
 # FitnessFocus with Chatbot
 
-Welcome to the RangeFitness Gym Website, equipped with a Chatbot and a BMI Calculator! 🏋️‍♂️🤖
+Welcome to the RangeFitness Gym Website, equipped with a Chatbot and a BMI Calculator! 🏋️‍♂️
 
 ## Overview
 
